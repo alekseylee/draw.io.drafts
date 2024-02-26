@@ -1,9 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T10:05:25.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="23.1.6" etag="1n7ABrvSIpSwEQqbQ3wl" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T12:24:09.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ywz1oIxHxLMaeHscoLtP" version="23.1.6" type="github">
   <diagram name="Page-1" id="X5aOQhIZP81_tIHRV2V6">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mtBoOplwOCALDo4XDjLK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mtBoOplwOCALDo4XDjLK-1" target="mtBoOplwOCALDo4XDjLK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-1" value="LinkedIn&lt;br&gt;(Job Post)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mtBoOplwOCALDo4XDjLK-2" target="mtBoOplwOCALDo4XDjLK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-2" value="ServiceNow&lt;br&gt;(Job Post)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-5" value="Create Business app&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-6" value="Order guide&lt;br&gt;(Onboarding process)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mtBoOplwOCALDo4XDjLK-7" target="mtBoOplwOCALDo4XDjLK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-7" value="Authorization to LinkedIn" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mtBoOplwOCALDo4XDjLK-15" target="mtBoOplwOCALDo4XDjLK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mtBoOplwOCALDo4XDjLK-15" target="mtBoOplwOCALDo4XDjLK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mtBoOplwOCALDo4XDjLK-15" target="mtBoOplwOCALDo4XDjLK-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mtBoOplwOCALDo4XDjLK-15" target="mtBoOplwOCALDo4XDjLK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-15" value="Create Task" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-21" value="Create Role&lt;br&gt;(approval role)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mtBoOplwOCALDo4XDjLK-5" target="mtBoOplwOCALDo4XDjLK-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-28" value="Description" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mtBoOplwOCALDo4XDjLK-29" value="Job position" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
